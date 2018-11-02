@@ -1,0 +1,4 @@
+[ {
+  "resource" : "Recurrence-Create",
+  "sample" : "{\n  'startDate' : null,\n  'endDate' : null,\n  'nextOccurrence' : null,\n  'recurringAmount' : null,\n  'debtSettlement' : null,\n  'frequency' : null,\n  'frequencyUnit' : null,\n  'FrequencyUnitType' : null\n}"
+} ]
