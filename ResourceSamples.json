@@ -7,4 +7,7 @@
 }, {
   "resource" : "Customers-Create",
   "sample" : "{\n  'customerId' : null,\n  'externalId' : null,\n  'merchantId' : null,\n  'name' : null,\n  'driverLicense' : null,\n  'address' : null,\n  'phone' : null,\n  'email' : null,\n  'createdAt' : null,\n  'updatedAt' : null\n}"
+}, {
+  "resource" : "feeback-Create",
+  "sample" : "{\n  'account' : null,\n  'externalId ' : null,\n  'status' : null,\n  'subStatus' : 'AC102',\n  'currency ' : null,\n  'amount ' : null,\n  'description ' : null,\n  'returnDate ' : null,\n  'submissionDate ' : null,\n  'willRepresent ' : null\n}"
 } ]
