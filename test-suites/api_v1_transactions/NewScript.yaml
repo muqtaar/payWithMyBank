@@ -1,7 +1,7 @@
 ---
 parent: "api_v1_transactions"
 name: "NewScript"
-description: "Returns a list of transactions previously created"
+description: "Returns a list"
 authors:
 - "FX Bot"
 type: "SUITE"
